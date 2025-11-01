@@ -55,7 +55,6 @@ python train.py --loc_id 4
 </div>
 
 
-
 **Run simulations and visualize the results**
 
 ```
