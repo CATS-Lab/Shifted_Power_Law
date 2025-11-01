@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # Shifted Power Law
 
@@ -57,6 +55,7 @@ python train.py --loc_id 4
 </div>
 
 
+
 **Run simulations and visualize the results**
 
 ```
@@ -64,8 +63,4 @@ cd simulation
 python main.py --loc_id 4 --data_path ../data/07_tracks.csv --res_root results --vis True --num_sim 1 --dist power_law --init_frame_id 0 --max_frame_id 250
 ```
 
-Note: If you do not assign *--init_frame_id* and *--max_frame_id*, the simulator will sample the initial frame id randomly and set the last frame id as the maximum frame id.
-=======
-# Shifted_Power_Law
-Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior
->>>>>>> a2cb90683afef37314a90dac8a1f3c82b2beb532
+**Note:** If you do not assign *--init_frame_id* and *--max_frame_id*, the simulator will sample the initial frame id randomly and set the last frame id as the maximum frame id.
