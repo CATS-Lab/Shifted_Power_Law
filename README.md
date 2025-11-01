@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Shifted Power Law
@@ -64,3 +65,7 @@ python main.py --loc_id 4 --data_path ../data/07_tracks.csv --res_root results -
 ```
 
 Note: If you do not assign *--init_frame_id* and *--max_frame_id*, the simulator will sample the initial frame id randomly and set the last frame id as the maximum frame id.
+=======
+# Shifted_Power_Law
+Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior
+>>>>>>> a2cb90683afef37314a90dac8a1f3c82b2beb532
